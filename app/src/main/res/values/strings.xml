@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">SuperTonic3 Demo</string>
-    <string name="default_tts_text">How are you doing today? This is a text-to-speech engine using next generation Kaldi.</string>
+    <string name="default_tts_text">How are you doing today? &lt;breath&gt; This is a text-to-speech engine using next generation Kaldi. I wanted to test a longer paragraph with natural pauses, clearer emotion, and a few expressive markers. &lt;laugh&gt; Sometimes a small laugh makes the sentence feel more conversational, especially when the demo is running fully offline on a phone. Now let us continue with another sentence so the model has more context and enough duration for playback testing. &lt;sigh&gt; Finally, this closing line should sound calmer and a little more reflective before the audio ends.</string>
 </resources>
