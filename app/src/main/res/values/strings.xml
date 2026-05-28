@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SuperTonic3 Demo</string>
+    <string name="default_tts_text">How are you doing today? This is a text-to-speech engine using next generation Kaldi.</string>
+</resources>

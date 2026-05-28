@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.SuperTonic3Demo" parent="@android:style/Theme.Material.NoActionBar" />
+</resources>
